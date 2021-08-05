@@ -2,6 +2,7 @@ package problems;
 
 /**
  * Minimum no. of Jumps to reach end of an array
+ * Time Complexity : o(n)
  *
  */
 public class MinimumJumpToReachEnd {

@@ -2,6 +2,7 @@ package problems;
 
 /**
  * find duplicate in an array of N+1 Integers
+ * Time Complexity : o(n)
  *
  */
 public class duplicateinArray {

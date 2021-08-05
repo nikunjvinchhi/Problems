@@ -2,6 +2,7 @@ package problems;
 
 /**
  * Write a program to cyclically rotate an array by one.
+ * Time Complexity : o(n)
  *
  */
 public class CyclicRotateArrayByOne {

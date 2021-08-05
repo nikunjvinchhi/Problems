@@ -3,6 +3,7 @@ package problems;
 /**
  * 
  * find Largest sum contiguous Subarray [V. IMP]
+ * Time Complexity : o(n)
  *
  */
 public class Kadane {
